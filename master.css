@@ -1,0 +1,51 @@
+/*CSS for my website*/
+
+  a {
+    color: #16c60c;
+  }
+
+  a:hover {
+    color: #16c60c;
+  }
+  a:visited {  
+      color: #16c60c; 
+  }
+  
+  
+  body {
+  font-family: 'Comfortaa', cursive;
+  background-color: #f7fbe9;
+  color: #000100;
+  text-align: center;
+  }
+  
+  p {
+  margin-left:  8em;
+  margin-right: 8em;  
+  }  
+   
+  footer {	
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+	color: #16c60c;	
+    text-transform: uppercase;
+  }
+
+  
+  h1 {
+	font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #16c60c;	
+    margin-bottom: 0.5rem;
+	margin-top: 1rem;
+	}  
+  hr {
+    margin-bottom: 3rem;
+	margin-top: 3rem;
+  }
+  
